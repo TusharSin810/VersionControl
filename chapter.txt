@@ -1,1 +1,2 @@
 Hello i am learning Git , GitHub and Version control.
+now i am learning about Branching and merging 
